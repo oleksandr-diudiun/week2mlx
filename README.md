@@ -14,6 +14,9 @@
 * A completely different corpus of text, like (some of) Wikipedia
 
 
+---
+
+
 
 * Take in a Hacker News title
 * Convert it to a list of token embeddings using our word2vec architecture
@@ -21,6 +24,9 @@
 * Pass this averaged embedding through a series of hidden layers with widths and activation functions of your choice.
 * Pass the result through an output layer, which should be a linear layer with a single neuron, in order to product a single number representing the network's prediction for the upvote score.
 * Compare the predicted score with the true score (the  *label* ) via an *Mean Square Error* loss function.
+
+---
+
 
 
 The suggested Workflow will consist of 4 main Steps:
