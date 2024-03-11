@@ -1,3 +1,4 @@
+ id;title;score
  132376;The Celebrity Solution;5
  132397;Advertising Information;1
  132472;Top fifteen great escapes;1
@@ -801,7 +802,7 @@
  136202;CVM JIT Constant Pool Dumps;1
  135806;Mozilla Expands Prism Desktop Effort;1
  135904;Global Or Die: Is There A Future For Local Startups?;4
- 135931;2007 a bumper year for tech exits; reality bites in 2008;10
+ 135931;2007 a bumper year for tech exits, reality bites in 2008;10
  136091;Ask YC: Geolocation by IP Address API/Service?;21
  136130;Wireless neckband allows first voiceless phone call;4
  135844;Sprouts;4
@@ -814,8 +815,7 @@
  136314;MySpace Opens Up The OpenSocial Spigot;3
  136364;Why Are Continuations So Confusing, and What Do They Really Do?;19
  136429;Alexa indexes pages they should not;2
- 135760;         \r                                                                                                          +
- IBM sees decline in number of U.S IT pros, boom in China;2
+ 135760;IBM sees decline in number of U.S IT pros, boom in China;2
  135851;Voiceless Phone Calls;2
  136020;Coordinatr: Elegant Solution For Event Planning;8
  135772;Common Questions when Adopting Test Driven Development;2
