@@ -1,0 +1,1001 @@
+ 132376;The Celebrity Solution;5
+ 132397;Advertising Information;1
+ 132472;Top fifteen great escapes;1
+ 132507;Space War: "The global economic system would probably collapse..." ;9
+ 132521;Nothing Between You and Your Machine;2
+ 132522;Should every computer chip have a cosmic ray detector?;3
+ 132290;Do You Memorialize Failure?;2
+ 132343;Stroustrup and Sutter: C++ to run and run;1
+ 132442;The future of communication?;6
+ 132562;Amazon: What are you hiding? (Kindle a failure?);4
+ 132636;Hits and misses in coverage of Intel's Atom processor;2
+ 132340;MyProps.org;1
+ 132362;Oops, They Fired All Their Workaholics;2
+ 132455;How They Hack Your Website;22
+ 132484;6 Ways to Increase Your Confidence As You Code;14
+ 132630;A keyboard without keys - Dasher;12
+ 132642;The Real Reason Microsoft About-Faced on IE8 Standards Opt-In;13
+ 132653;Marketing Is Not A Department;1
+ 132440;Newspeak is a new dynamic language, descended from Smalltalk and Self;6
+ 132469;How to be Creative;2
+ 132470;Mankind's secrets kept in lunar ark;3
+ 132479;A brutal week for credit markets;13
+ 132643;Sexy clones of classic Unix tools ;19
+ 132657;Slumming With Basic Programmers;5
+ 137466;Progressive CSS Enhancement;4
+ 132478;How Bluetooth got its name;1
+ 132482;Superstar cities defy downturn - The Rise of the Creative Class;7
+ 132504;Tcl/Tk got higher speed, modern theming engine, antialiased fonts and much more ...;1
+ 132510;CMU professor with terminal cancer shares  about Dreams;1
+ 132447;Twining motion of vines;1
+ 132475;Harvard easy up on low income families;1
+ 132489;A Return to Reading Blogs ;1
+ 132535;Ask YC: Content Delivery Networks;2
+ 132451;Human Data as a Playfield: The Passively Multiplayer Online Game;2
+ 132463;Coming Soon: Nothing Between You and Your Machine;1
+ 132532;A New Paradigm For Web Browsing: Nothing Between You and Your Machine;3
+ 132536;Fedora Core, Perlbal, ...;1
+ 132541;the more things change...;1
+ 132639;Top 10 vulnerabilities in Web Applications in Q4 2007;2
+ 132640;They Write the Right Stuff;25
+ 132827;The world's 50 most powerful blogs;8
+ 132559;Web developers, Web developers, Web developers (Steve Ballmer);1
+ 132561;'Odd Couple' keynote engages audience at MIX08;1
+ 132622;Geek Love (NYTimes Gary Gygax obituary);1
+ 132665;Smart Image Resizer (PHP);10
+ 132881;A Few Common Performance Mistakes;1
+ 132882; XFL: Flash's New Source Format;2
+ 132948;Young Entrepreneur's Help;1
+ 132957;More Monads on the Cheap: Inlined fromMaybe;4
+ 132961;‘Snow Day’ at the Beijing Olympics;3
+ 132543;Startups That Fail to Invest in Trust Will All Die;2
+ 132563;How to make your startup successful;15
+ 132637;A tool for recovering memory contents on cold boot attacks - msramdmp;2
+ 132699;Sunk costs, quitting and the value of your brand;5
+ 132700;Cryptonomicon;3
+ 132746;What sucks about Erlang.;1
+ 132971;Canada warns US over oil sands;1
+ 132980;Secrets of Superstar Employers;1
+ 133002;The Myth of A Listers and Influencers;4
+ 132607;Stanford professor Lawrence Lessig hates corruption;1
+ 132646;So, What Does "HREF" Stand For, Anyway?;3
+ 132843;Ask YC:  How can I compete with someone who has a life story like this and who donates 50% of profits to charities?;1
+ 132934;Hacked: Top 10 security mistakes;5
+ 132979;Ask YC:how do you do Sessions on EC2?;4
+ 133031;Register your Domain through Google and get instant Google apps ;3
+ 133090;An Introduction to NSM-Console;2
+ 132614;Ask YC: Entrepreneurship Summer Program?;1
+ 132634;Case studies of Linux deployments in high schools around the world;1
+ 132741;An elusive billionaire gives away his good fortune;29
+ 132768;Monday: Paramount to release thousands of film clips on Facebook;2
+ 132871;Paul McCartney Signs $400 Million iTunes Deal For The Beatles Catalog;3
+ 132915;Instance variables, class variables, and inheritance in Ruby;1
+ 132670;What Are You Destined to Be?;2
+ 132696;Startup Advice Weekend;5
+ 132826;Finding Startup Co-Founders DON'T;14
+ 132854;Is Web 2.0 Sustainable?;1
+ 133056;AP probe finds drugs in drinking water ;2
+ 133260;20 Websites That Made Me A Better Web Developer;39
+ 132695;(Javascript) Performance is Everything;17
+ 132718;serious hacking request. How to track an online psycho-stalker-impersonator?;1
+ 132900;Is it a Leap Year?!;3
+ 132673;SXSW: 7 Fake Startups Compete for 'Worst Website Ever';3
+ 132675;Major Update to [Mozilla] Prism, First Prototype of Browser Integration;16
+ 132778;When is the right time to "ship" your product?;2
+ 132901;Git's Killer Feature (why it's better than Mercurial);17
+ 132704;Karma Hack - Encourage the creation of interesting content;15
+ 132705;Street Cred;1
+ 132829;Journalist becomes the story at Mark Zuckerberg SXSWi keynote;29
+ 132762;Ask YC: what should I do about a psycho-stalker-impersonator on my blog?;4
+ 132809;People testing NGINX;2
+ 132873;Creating a web startup functionality in a department in a big corporation?;2
+ 132910;SXSW: Web Awards Winners;2
+ 132911;Lessons Learned Running a Software as a Service (SaaS) Business;14
+ 132912;Meet Kyte: This Year's Twitter;2
+ 132925;How This Economy Is Going To Play Out;4
+ 133063;YC Startup MightyQuiz: Stump Strangers with Your Arcane Knowledge;29
+ 133065;Travel 2.0? Hands on with Zicasso, a great first attempt;1
+ 133099;My 10 “Un-Tips” for Starting-Up Right;1
+ 132849;The Future of the Net (and how to stop it);1
+ 133045;Clinton to upset Obama?;2
+ 133052;My Biggest Lisp Project ;17
+ 133081;Directing the Future;1
+ 133094;Girls and young women are now the most prolific web users;14
+ 133187;A collection of successful startups and their teenage founders ;4
+ 133219;Challenge to Boston Mobile Developers: Show Us Your iPhone Apps;1
+ 132825;Britain makes camera that 'sees' under clothes;1
+ 133084;The Most Beautiful Computers of all Time;2
+ 133109;From palmtops to brain cells;2
+ 133150;Interview: Ray Ozzie, Chief Software Architect @ Microsoft;3
+ 133046;13 + 1 Tips for Aspiring Entrepreneurs. Be Aware of the Entrepreneurial Context You are Living In.;3
+ 133051;The Java Proportionality;1
+ 133124;Zuckerberg SXSW Interactive keynote (disaster);2
+ 133156;CSS-Tricks Video Screencasts;1
+ 133227;Arc: I/O;1
+ 133325;Can Liberal Arts Colleges Be Saved?;9
+ 133331;IT labor shortage is a myth;3
+ 133384;BitNami releases JRubyStack;1
+ 133710;Your call is important to us;2
+ 132786;Digg Users Are Doing Their Best To Kill An Acquisition;11
+ 132877;In Response to “What Sucks About Erlang”;20
+ 132931;Op-Ed: The Con of the Information Age;2
+ 132982;Transform Your Website Into a Sales Powerhouse;1
+ 132897;Bruce Schneier on Dual Use Technologies [video];1
+ 132899; Threading In Ruby;14
+ 132969;Microsoft wary on Yahoo integration;1
+ 132984;Spirit of the Entrepreneur;1
+ 132985;Ask YC: how is SimpleDB?;6
+ 132987;if someone will pay for what u have, it might be valuable;1
+ 132988;ThruDB accelerate aws.S3 or other cross system calls;1
+ 132989;Why FriendFeed is the next big thing;2
+ 133126;11 Must Have Firefox Extensions (programmer heavy);1
+ 133128;Ask YC: What Is Your Favorite Board Game?;16
+ 133129;xkcd - Kilobyte;18
+ 133131;Congrats nickb hitting 10K karma today;34
+ 133361;Black Google;1
+ 133433;Einstein Versus the Physical Review;15
+ 132841;Levy: Gone, Without a Trace ;6
+ 132883; Explaining garbage collection;4
+ 132940;Software that makes software better;4
+ 133190;RTMP is patented by Adobe?;1
+ 133089;Hell has no fury like a Twitter-er Scorned ;4
+ 133169;Ask YC: raising angel funding in London;2
+ 132967;Are We In A Recession Right Now?;2
+ 132972;Why Apple Will Dominate Next Gen Computing;14
+ 133058;Patent raid at German tech fair;3
+ 133136;Socialthing;1
+ 133165;The pendulum swings;8
+ 133222;W3C Semantic Web FAQ;1
+ 133562;Mahaloism 1.0;1
+ 133563;How to Run Digsby in linux with wine;1
+ 133566;New Global Search Engine;3
+ 132983;Sara Lacy speaks out after criticized Mark Zuckerberg interview;8
+ 132995;How to plan humble user-centric web application?;2
+ 133262;MySQL InnoDB Clustered Indexes and Rails (or How RescueTime Avoided Buying More Hardware);48
+ 133625;Would you friend your parents on Facebook?;6
+ 133638;How to make time for personal goals;3
+ 133719;Why web frameworks are a bad thing, part 1: MVC ;7
+ 133055;Are .NET developers the American tourists of the software industry?;40
+ 133059;Watch out FriendFeed - SocialThing! Is Even Easier To Use;11
+ 133067;Dropping 22TB of patches on 6,500 PCs in 4 hours: BitTorrent;6
+ 133122;Lacy Responds to Zuckerberg Keynote Disaster;1
+ 133143;Duby: A Type-Inferred Ruby-Like JVM Language;2
+ 133192;New Internet Meme - Zuckerbucks;15
+ 133271;What microloans miss;8
+ 133123;PMOG;12
+ 133349;Ask YC: Recommendations on how to make demo video (60 sec tour) for our starup?;12
+ 133513;Social networks are like the eye: A Talk with Nicholas A. Christakis;2
+ 133012;Lisp Flavoured Erlang released;1
+ 133078;The making of... Japan's First RPG;1
+ 133289;Saving Face(book): When do you hire a pro CEO?;5
+ 133074;The conundrum of self promotion and social media;4
+ 133157;Jsure, a static Javascript analyzer, checks syntax, catches undeclared variables and bad regexes.;4
+ 133249;BBC's free, wavelet-based Dirac codec released;3
+ 133276;Nixon, pretending to be crazy, sent 18 planeloads of real nuclear bombs to USSR;4
+ 133314;BioRuby and Ruby on Rails: Active BioRecords;1
+ 138122;Programming Poker AI;2
+ 133103;Sifting the data on Web audiences;2
+ 133568;Why Rails rules: continuous forward motion;2
+ 133216;Simple Metaprogramming logger with graph generation;2
+ 133282;Story of the Mach 3.18 breakup of an SR-71 Blackbird;49
+ 133317;Notes On Using EC2 and S3;5
+ 133231;Smartphones May Be Able To Capture URLs Anywhere;2
+ 133252;Wikipedia running out of money - resists selling ads;9
+ 133440;Little Known Hacker News Is My First Read Every Morning;96
+ 133159;A Mac OS X-style Dock In JavaScript;28
+ 133163;India's wages surge but risks multiply;2
+ 133308;Kata and practice;1
+ 133251;A Simple Strategy for Start-Ups to Kick Fortune-500-Butt;4
+ 133265;Entrepreneurial Personality Test;1
+ 133616;Add Page Numbers to Google Docs;2
+ 133404;The "No Laptop" Meeting Rule;8
+ 133436;Open source Flash player in beta;14
+ 133587;GPL vs startups;1
+ 138918;Chatwo - another ajax powered chatroom?;1
+ 133294;Why we disagree with Don Norman;66
+ 133430;A New Venture Animal;106
+ 133431;Game Trees and Totally Finite Games;2
+ 133453;Hacker News Site Guidelines;177
+ 133488;Pretty Interesting Stuff;1
+ 133515;What do you do to attract more women to work at your startup?;3
+ 133695;Microsoft’s New Play for Linux Lovers;3
+ 133278;Ex-Googler Launches Search Engine Community, Topicle;10
+ 133342;Taffy - an in memory JavaScript database;13
+ 133359;Ask YC: What do you do if American economy enters a downturn?;11
+ 133373;Chuck Norris the only WMD in Iraq;1
+ 133280;C++ Coder’s Newbie Guide to Lisp-style OO;5
+ 133304;'Monstrous' robot going up on space station;3
+ 133350;Why Rails will Reign Supreme;8
+ 133397;Mark Cuban: We Live in an "Open Book" World, the Lie of Information Overload;1
+ 133618;3 suggestions to help with the increasing popularity of HN;2
+ 133659;Gary Gygax D&D Obit;14
+ 133299;IPhone SDK: You must run Xcode in 32-bit mode;1
+ 133405;Game Loop;6
+ 133406;Sorting At Speed;3
+ 133610;Mind Blowing South African Trip;1
+ 133641;Ask YC: startup valuation;1
+ 133759;Mark Cuban's rules for startups;3
+ 133775;Recommendations for email programs;1
+ 133795;The Really Terrible Orchestra;2
+ 133797;Taffy DB : A JavaScript database for your browser;4
+ 133896;Life lessons from Client #9;2
+ 133920;Let's block all referrals from TC;8
+ 133969;YC: There should be a way to prevent reposts;11
+ 133356;Bigger Computer Monitors = More Productivity;27
+ 133532;US to approve OOXML for ISO standard;1
+ 133494;Transparent PNGs can Deadlock IE6;4
+ 133527;Microsoft wants to freeze the Vista incapable lawsuit ;1
+ 133528;Does Daylight Saving save energy?;1
+ 133419;Poll: When is a startup successful?;1
+ 133480;Where and how to find founding hackers for generous equity?;1
+ 133481;Study: depressed turn to blogging as coping mechanism;1
+ 133510;New Project: Newshoured - Local News Without Fuss;2
+ 133685;Google shares could fall another 20%? $350? ;3
+ 133682;CastTV - Hiring Hackers: Fascinated by machine learning, web crawling, and search?;2
+ 133583;Mark Zuckerberg on Data Portability: An Interview;2
+ 133589;Architecture as a Language;1
+ 133645;Nicco says: Google = Evil;2
+ 133784;Ask YC: Recommend a Web Based Scheduling Software;7
+ 133877;William Feather on "Perseverance Rewarded";1
+ 134092;CIOs and the Marketing of IT;1
+ 133489;TC Slows Hacker News - Start the Arc can't scale rants.;12
+ 133665;Google Mashup Editor;1
+ 133961;Coursework;1
+ 133962;News Corp Gives Up The Fight For Yahoo;3
+ 133998;Gcse Coursework;1
+ 133543;Ask HN: Does anyone here play golf?;2
+ 133557;Ask YC: Widgets vs Plugins ?;2
+ 133684;Behind the Scenes at Xobni;14
+ 133701;Scoble Interviews Scribd CEO;7
+ 133715;HTTP, the protocol that most (web) frameworks try to pretend doesn’t exist.;7
+ 133772;Like Twitter, Chatterous offers instant chat;11
+ 133782;Should You Hire Workaholics For Your Startup?;3
+ 133835;InLine - a 100% Ruby solution for console inline editing;5
+ 133552;Sarah Lacy, SXSW, And The Art Of The Interview;3
+ 133586;Snakes in the Morning (how to get an edge on anything Americana);1
+ 133629;2nd Gen Asus Eee - New LCD Screen LED Backlit?;1
+ 133831;When to incorporate;3
+ 133841;Four Social Media Lessons from SXSW's Mark Zuckerberg Interview ;2
+ 133827;The 7 dirtiest jobs in IT;11
+ 133840;Google Focused Linux PC’s Fail At Wal-Mart;5
+ 133612;Ask YC: What have you learned that rocked your world?;42
+ 133619;Looking for co-founder - r u a hacker?;1
+ 133633;How Google keeps your information secure;7
+ 133688;"Open in TextMate" from Leopard Finder;3
+ 133713;Real-Time Raytracing;6
+ 133727;Ask YC: What is your favourite paradox?;30
+ 133707;Software bugtraps;1
+ 133938;Aperture 2.0: the Ars Technica review;1
+ 134093;The 'Dogpile Effect' and how to avoid it with RoR memcache-client patch;5
+ 134148;Skribit In Open Beta;7
+ 133778;Raising Obama: Politics & Power;1
+ 133808;Mysterious slowness fixed.  Sorry about that.;19
+ 133817;LittleEngine: Small Business Social Network;1
+ 133834;Magpul Flashlight Gun Transformer Concept [flash movie];3
+ 133838;The Fight for the Second Click;1
+ 133983;Google's second click versus Facebook's second click;28
+ 140787;Should Mac Users Run Antivirus Software?;2
+ 133693;Ask: what the hell is service-oriented architecture?;2
+ 133959;Avoiding the Fark Effect;4
+ 133968;4 Technologies for Portability in Social Networks;4
+ 133973;Ask YC: What's the best virtual hosting for a development stage startup?;8
+ 133974;Meebo Just May Be This Year's Twitter;5
+ 134190;"Algorithms for programmers" full text;44
+ 133859;David Mandelin needs a theorem prover;4
+ 134032;Query anything with SQLight - virtual tables make powerful features;2
+ 133731;Should I open up alpha or wait until full(er)-featured beta?;14
+ 134126;Thesis Writing Service;1
+ 134152;101 Useful Resources for Online Entrepreneurs;4
+ 134247;Ask PG: What's the traffic effect here from the TechCrunch mention?;49
+ 133812;8 Premium One Line Css Tips;3
+ 133845;Great Ideas in Theoretical Computer Science;4
+ 133847;Boston Startup Does 3D Photo Sharing from the Desktop;2
+ 133849;Ask YC:  Do you know of any web 2.0 sites where most users are computer illiterate?;6
+ 134179;News Corp.'s Murdoch rules out bid for Yahoo / But open to some kind of deal;1
+ 133735;Odd Behavior And Creativity May Go Hand-in-hand;15
+ 133809;OLPC XO to Run Windows in 60 Days or Less;3
+ 133935;outerz0ne - two weeks;3
+ 134085;The Uncanny Valley;2
+ 134086;music distribution without industry or commercialism;1
+ 134089;Realistic expectations for making money in your startup business [podcast];1
+ 134208;What slashdot learned about moderation systems (buried in the faq);3
+ 134332;Ask Public:: Does Google remove websites from search?;1
+ 134414;How to Build a Mobile Office and Work From Anywhere;3
+ 133842;VOVO brand new travel social network FIRST LOOK!;1
+ 133872;We're trying Chatterous tonight;4
+ 133949;123 Matrimonials: India Matrimonial & Indian Matrimony;1
+ 133786;Reactable demo (synthesize and perform electronic music in real time) [video];6
+ 133932;Google I/O;2
+ 133946;Threads;1
+ 133966;Google: Finding the Bottom. $350? Less?;2
+ 133905;Little Known Hacker News Is Boring As Hell;10
+ 133927;A Cure for Fat Fingers;3
+ 133964;Mark Zuckerberg/ Sarah Lacy Interview From SXSW;1
+ 134070;Ask HN: how to be a VC?;7
+ 134104;European Enterpreneurs;2
+ 134142;Demo of Jeff Raskin's Zoom World user interface [links to video] ;2
+ 134176;Google Analytics Fun;4
+ 134242;Good Analytics Can Get You Booty;3
+ 134248;Designing "in the pocket";3
+ 134025;Top 10 algorithms [pdf];5
+ 134027;New Promissing ecard website;1
+ 134234;Shredz64: Guitar Hero on the Commodore-64;1
+ 134236;HTTP-Headers Status Diagram;59
+ 133832;Flying Planes by Day, Yoking Video Feeds by Night;1
+ 133907;Your call is important to us;3
+ 133930;Southern Baptists believe in global warming now.;1
+ 133939;Full Linux Alternative to Exchange Server;3
+ 134153;10 Rules For Startups by Misanthropy Today;4
+ 134154;Implementing a Graphic Driver Abstraction;1
+ 134155;Ruby SimpleConsole - Building Console Apps;1
+ 134182;ProtoFlow: coverflow widget for Prototype;1
+ 134285;20% Of Valley Startups Can’t Get To Their Cash;31
+ 134351;Warm fuzzy things for random simulations;5
+ 134515;Twine Disappoints After Semantic Web Hype;8
+ 134525;A New Venture Animal;1
+ 133965;CNET is best acquirer of Digg;1
+ 134045;Imindi: Web 3.0 App to Expand our Minds;1
+ 134090;Dear Ray Ozzie: IE8 Can't handle Windows Live;3
+ 134091;India Nurtures Business of Surrogate Motherhood;1
+ 134128;Classified ads for raising capital;9
+ 134138;Former chief scientist claims Wikipedia's Jimmy Wales traded Wiki edits for donations;2
+ 134237;Google buy of DoubleClick cleared by EU;1
+ 134051;IBM/ISS X-Force 2007 Stats.  This ain't gettin' better soon.;2
+ 134250;Do the Test;1
+ 134258;MyVox API Released, add voice to any Web 2.0 app;1
+ 134293;Sun aquires VirtualBox ;15
+ 134443;Beautiful origami from a leading theorist of origami math.;3
+ 134466;Nerdfotainment;8
+ 133978;Ask YC: Voting Karma;36
+ 134016;Ask YC : startups from India;4
+ 134079;Hipsip: Skype and SIP calls from your mobile phone;2
+ 134109;NYT: Crowd Sourced Film Production;1
+ 134268;Always Refer to Your V1 As a Prototype;10
+ 134132;Creating Snapshot-Backups with BackerUpper On Ubuntu 7.10;1
+ 134165;Gone, Without a Trace;3
+ 134171;Wide Awake Developers: Steve Jobs Made Me Miss My Flight;10
+ 134295;Sharing a public Git repo over HTTP [flow chart];2
+ 134309;Controller - an event delegation library;2
+ 134311;Derivatives the new 'ticking bomb';5
+ 134325;Announcing Google I/O: A two day developer gathering in SF;6
+ 134326;Consume non rails-style REST API's;2
+ 134338;3D pannable video - Click and drag to pan the camera around;6
+ 134377;Natural language considered harmful;15
+ 134383;There’s only one workaholic here . . . me!;1
+ 134386;An iPhone interface for Hacker News;45
+ 134011;Text it before you forget it with KWIRY;2
+ 134253;Lessons Learned Running a Software as a Service (SaaS) Business;3
+ 134254;Chemical brain controls nanobots;1
+ 134259;Where Every Ad Knows Your Name ;6
+ 134260;Mozilla's new Prism brings websites to the desktop;7
+ 134318;Widescreen Monitors Can Save Companies $8,600 Per Employee, Per Year;34
+ 134399;Team Whiteboarding with Twiddla;1
+ 134512;Matrix: Simulating the World with cellular automata;7
+ 134169;iPhone no match for Windows Mobile on Exchange features;1
+ 134256;AJAX Solitaire;1
+ 134281;Managing Information Streams;1
+ 134282;Ask YC: Are Americans forgetting the rest of the world?;5
+ 134328;Bringing OpenID To The Masses: Clickpass (YC summer 07);87
+ 134329;New Beta 4 Puts the Fire Back in Firefox 3;4
+ 134337;World of Warcraft is completely down;2
+ 134094;Android: Liberté, égalité, fraternité;1
+ 134115;The man who owns the Internet;1
+ 134116;The n Habits of Highly Defective Windows Applications;7
+ 134131;Pace of Change Too Slow to Keep Entrepreneurs in France;11
+ 134139;Wayward Medical Records sold as scrap paper for $20;2
+ 134197;How Smart Is Your State? US States Ranked by Patents per Million People;9
+ 134333;Virtualization Benchmarking;1
+ 134344;The irony of FOSS project's Windows support;4
+ 134035;Mono (.NET Framework) runs on the iPhone;11
+ 134228;How to spread awareness about World IT Day?;2
+ 134291;SearchMe Launches New Search Engine With Heavy Backing From Sequoia;10
+ 134331;Alertle - Simplified and Customizable RSS reading;2
+ 134188;Did Arrington Just Kill YC News?;3
+ 134196;Ask PG: I keep nearly deleting my comments, fix?;1
+ 134224;Ask YC: How to create enough content for launch?;9
+ 134225;Finally, EU approves Google's buy of DoubleClick;5
+ 134240;Is the Net Too Neutral?;2
+ 134252;Guy Kawasaki launches Alltop, an "online magazine rack";19
+ 134471;Credit Crunch Hits Start-ups;2
+ 134527;Powerset releases HBase - Open source version of Google's BigTable;7
+ 134544;Segway: the product that changed the world;2
+ 134609;Qoof Launches iBeg App for Facebook - Watch Videos of facebookers begging for prizes;1
+ 134321;Physics, topology, logic and computation: a Rosetta Stone;2
+ 134430;Job Loyalty in Valley? Not Unless You're Retired;1
+ 134464;Join the News.YC group on Chatterous;24
+ 134694;Portable contact lists and the case against XFN;2
+ 134696;Six Apart Takes Aim At Wordpress Users;2
+ 134717;Mark Zuckerberg, Facebook - From Harvard to the Facebook (Ed Corner);3
+ 134854;Testing Hacker News/Scribd iPaper integration;23
+ 134390;A Guide to New England Angel Groups—The List;1
+ 134405;Dropbox launches (YC summer 07);133
+ 134460;Everytime I Think About You I Multitouch My Cell;1
+ 134479;Boot$trapping: ‘Spend it’ Like Dell & Newmark ;1
+ 134480;Taffy: A database in JavaScript;14
+ 134508;U.S. In-flight Broadband Is A-gogo by Spring;1
+ 134255;What Startups Don’t Need to Spend Money On;1
+ 134296;Fastest growing venture markets: New Mexico, Pittsburgh, Seattle, LA, DC;3
+ 134380;Warren Buffett: $516 trillion bubble is a disaster waiting to happen;22
+ 134417;Web Mission '08 - UK Startups to visit Silicon Valley;1
+ 134664;Forget BFF. Try Rivals4Ever.;1
+ 134671;France gives US$92 M in funding to create design-by-committee Google competitor;1
+ 134698;Drop It Like It’s DropBox;3
+ 134848;Iterative Filtering for a Dynamical Reputation System;1
+ 134850;When are recommender systems useful?;2
+ 134933;Everything you always wanted to know about HTTP headers status, but were afraid to ask;1
+ 134270;The Hundred Greatest Theorems;7
+ 134463;Hostility Has Its Rewards: Hostile Acquisitions in SV;2
+ 134509;Utu: Zed Shaw's replacement for http;23
+ 134611;Ask YC: Providing Hosting Services?;6
+ 134272;The same folks who brought you Mighty Morphin Power Rangers want to fund your digital media startup.;3
+ 134347;Where on the earth we are?why people have ego,when they are just nothing!;1
+ 134388;Tilton's Law - solve the first problem first;29
+ 134389;Get Back to Your Mac Without Paying for It;1
+ 134458;Employee Referral Bonus Jackpots: 15 Companies with Awesome New-Hire Incentives;2
+ 134482;Identical twins do not have identical DNA;3
+ 134305;Pi Corp and Credentica, 2 Zero-knowledge spin-off startups acquired;3
+ 134322;Marvin Minsky: What makes Mathematics hard to learn?;29
+ 134339;Announcing (Formally) Alltop;4
+ 134474;Help Fund A Ruby Developer To Work On Open Source For 6 Months;1
+ 134496;Internet Fanboyism at the SXSW Interactive Conference (comic);3
+ 134560;Ask YC: Do you believe social networks have a lock on their users?;1
+ 134562;Firefox 3 Beta 4 is 5x faster than IE7, 3x faster than FF2;7
+ 134510;Starling — Unicode string library for Erlang;6
+ 134540;Middle America Rejects Wal-Mart Linux Experiment;1
+ 134541;Inform 7: An adventure game programming system based on natural language;2
+ 134553;A New Venture Animal;1
+ 134354;FeedBurner Introduced a New Service to Transfer Feeds Between Accounts;2
+ 134433;Google officially acquires DoubleClick;10
+ 134612;N.Y. Times CEO: Online Growth an "absolute priority" ;2
+ 134355;EU clears Google-Doubleclick deal;1
+ 134634;Cacau Freire;1
+ 134667;Hard Lessons For Entrepreneurs - Why We Fail;15
+ 134440;Ruby + Google Sitemaps == Easy way to get the google love you deserve;2
+ 134449;Valve: "Integrating Narrative and Design: A Portal Post-Mortem," GDC, February 2008. Slides [pdf];2
+ 134489;Guy Kawasaki Formally Launches Alltop. Wow, It’s Bad.;4
+ 134490;Worst unionized teacher contest - winners offered $10K to quit;3
+ 134396;Privacy and Power;3
+ 134448;A CC license for mashups: "... They're graphics, you can't use traditional software licensing rules";3
+ 134409;Forbidden Fruit - Is the Government Against Local Food?;1
+ 134445;sympy 0.5.13 released;1
+ 134576;FriendFeedFeed - Aggregate all your social networking aggregator feeds;3
+ 134577;Linux Laptops: Despite Minor Annoyances, They're Improving;2
+ 134704;11 Cloud Computing Vendors to Watch (Forrester);2
+ 134835;WordPress 2.5 is near release (and MoveableType sucks);2
+ 134871;Short interactive Python puzzle. Did you solve it before the end?;4
+ 134630;Seven Rules for Managing IT at a Startup;2
+ 134685;Ask YC: The value of internships?;8
+ 134691;9 principles of innovation from Google;12
+ 134805;ratemycop.com: New Website Has Police Furious;2
+ 134957;I will try again tomorrow;1
+ 134573;Static vs 'dynamic typing', part 2: The personality-factor.;2
+ 134709;The World You Created;1
+ 134764;Physics, Topology, Logic and Computation: a Rosetta Stone;7
+ 134542;Ask YC: What do you think of Apple's SDK vs. Open Tool Chain from a business perspective?;2
+ 134581;RadicalBuy has launched a new widget to help sell your items off of Facebook;1
+ 134594;Develop a Firefox 3 Add-On, Get a Free T-Shirt;2
+ 134760;Ask YC: How many of you have Blogs?;3
+ 134791;Follow up to YC Designers, Can You List More?;1
+ 134557;7 Universities and Websites Offering Free Business Entrepreneurship Courses Online;4
+ 134578;Assume all new email is useless;5
+ 134579;7 rules of UI design;4
+ 134688;How do you feel about forward metablogging? (A question of mareketing and usability);1
+ 134752;Web Conferences: Where's the outrage?;15
+ 134775;A New Venture Animal;1
+ 134776;How would you make this better?;1
+ 134787;Ask YC:  Do you feel bad when some users spend way too much time on your site?;5
+ 134574;The thing about 'free';2
+ 134575;A Python cheat sheet for those of us who do;35
+ 134583;Coding around the Campfire;2
+ 134693;Venture capital spreads the wealth around the country. ;2
+ 134819;Streamlined meteorite hit Peru fast and hard last September;1
+ 134824;Dungeon Master: The Life and Legacy of Gary Gygax;4
+ 134958;Is YouTube Rolling Out Higher Quality Video Tomorrow?;1
+ 134960;Tech’s Late Adopters Prefer the Tried and True;2
+ 134659;My antisocial version of social bookmarking, feedback welcome;3
+ 134700;Is $20K worth of development worth 1% of company?;1
+ 134831;6 Websites That Will Certainly Make You Smarter;1
+ 134937;More woes for Wikipedia's Jimmy Wales - articles being rewritten for donations;3
+ 134703;Who do the Y Combinator companies go to for design?;36
+ 134740;Mathematicians Model Social Voting — What Scheme Works Best?;14
+ 134778;Google-DoubleClick may bode well for Microsoft-Yahoo deal;1
+ 134786;Think Looking for Coding and Marketing Interns;2
+ 134808;Are you on twitter?;18
+ 134837;Six Sigma: Hardware Si, Software No!;1
+ 134839;Guilt-free Dating For Single Parents;2
+ 134843;The Google Enigma;1
+ 134880;Hacker News Over AIM HackerNewsYC buddy;3
+ 134661;Women 2.0 Business Plan Competition - Deadline to Submit April 1, 2008;4
+ 134983;GoDaddy Silences Police-Watchdog Site RateMyCop.com;4
+ 134993;What business or strategy books do you read to keep you on course;3
+ 135106;YouTube expands API;4
+ 135107;Good Software Takes Ten Years. Get Used To it.;37
+ 135114;Seed capitalism;21
+ 135115;Interview with Guy Kawasaki;1
+ 135241;Apple Technology - Information, Review and Discussion About Apple Technology;5
+ 134677;Notes on “Predictably Irrational” by Dan Ariely;3
+ 134680;IS-A IS-A HAS-A;7
+ 134708;Founder salaries after an acquisition: how much? ;31
+ 134859;The Unavailable Path;1
+ 134953;Official: AOL On The Table For A Deal;3
+ 134810;Viacom can't seek punitive damages from Google;1
+ 134821;An Enduring Measure of Fitness: The Simple Push-Up;3
+ 135026;Anticlimax: YouTube Announces More Open API’s;1
+ 135066;Hulu.com to Open Its TV and Film Offerings This Week - New York Times;1
+ 135308;Too often, there's a wall between a company's IT department and everything else.;4
+ 134816;Where to next for Zoho?;1
+ 134935;Video: Google Tech Talks Advanced Topics in Programming Languages;3
+ 134735;How an information system helped nail Eliot Spitzer and a prostitution ring;8
+ 134967;Google acquires DoubleClick, reduces headcount;4
+ 134777;Is it a good idea to incorporate your startup in a tax haven country?;14
+ 134813;TIOBE Programming language popularity;5
+ 134814;Wal-Mart drops $200 Linux PC--lack of interest;1
+ 134918;Thoughts on Primary Elections;4
+ 134923;Even Outside of Silicon Valley, Venture Capital Is Growing;4
+ 135057;Redundant Widget Of The Week: ClockLink.Com;1
+ 135214;YouTube: The Platform;2
+ 134845;Hacker News Integrates with iPaper;30
+ 134905;69 Techie Uses for Duct Tape;3
+ 134951;Yahoo In Discussions To Join Google OpenSocial;4
+ 135010;Apple's design process;1
+ 135028;P2P Next is getting funding from Europe to devlop new...;3
+ 134867;Ten Tactics That Could Save Your Online Reputation;2
+ 134978;A little late...Awesome iUI Video!;8
+ 135176;Tiny projects keep it new ;41
+ 135181;The Awesome Highlighter - be nice, highlight;31
+ 135211;Let's Play "Blame The VC";3
+ 135384;Ask YC:  Does it make sense to combine ads with interactive puzzles/games to get people's attention?;2
+ 135092;MyLoki Lets You Tell the World That You Are Here;1
+ 135174;See Flickr Pictures As They Are Uploaded All Over The World;3
+ 134939;Ancient Bones of Small Humans Discovered in Palau;5
+ 135227;Television Will Rot Your Brain (a math problem);4
+ 135234;Free Sofware Download;5
+ 135238;Ask YC: What's your Advice on Performing Market Analysis for a Startup?;24
+ 135239;Hijacking Open ID-Enabled Accounts;3
+ 135514;Nerve-tapping neckband allows 'telepathic' chat;1
+ 134934;Algorithmic architecture [video];3
+ 135058;David Mamet: Why I Am No Longer a 'Brain-Dead Liberal';6
+ 135071;Modept Mobile Application Provisioning Platform;1
+ 135091;Yahoo Plans to Join OpenSocial Alliance?;1
+ 135252;3rr0rists;3
+ 135260;Ask News.YC: Recommendations for landing page optimization software;4
+ 135261;Bill Gates Asks Congress to Act Now to Maintain U.S. Innovation Lead;1
+ 135316;Inside Wall Street's Black Hole - what if Black Scholes pricing model is wrong?;5
+ 135317;Secreto Postal;1
+ 135318;Ask HN: Consulting on the side;5
+ 135034;The Geometry of Music;9
+ 135075;Term Paper;1
+ 135078;Will tomorrow's world still need designers?;2
+ 135120;Audiko does free ringtones for the iPhone;1
+ 135175;Joost: We Still Matter!;1
+ 135208;Apple's design process;10
+ 135263;Half-Assed Startup: How do I start my company and keep my day job?;4
+ 135081;Ask YC: Best forums for coding questions, by language?;2
+ 135226;Microsoft: maybe this dynamic typing thing really is kind of handy, after all;2
+ 135249;Ask HN: Giving raises after a series A round;15
+ 135530;A Heart Device Is Found Vulnerable to Hacker Attacks;2
+ 135018;Lamport's Bakery Algorithm;2
+ 135025;The Search for the Killer iPhone App;1
+ 135050;Alphabetical order is obsolete;5
+ 135067;How Did A-Rod Get So Good?;2
+ 135130;A Few Questions About The iPhone SDK;1
+ 135138;Run with  the ball today;3
+ 135216;IPhone SDK Downloads Top 100,000;12
+ 142317;Virtual and real blur in Eve Online;3
+ 134992;Java on the iPhone?;1
+ 135015;Google Demokratische Republic: Guilty until proven innocent;3
+ 135031;Yahoo to join Google’s OpenSocial?;1
+ 135053;Firefox 3 Memory Usage;15
+ 135102;Universe turns out to be modeled on Dungeons & Dragons;1
+ 135223;Help me with red5;1
+ 135229;Why is D/Tango so fast at parsing XML?;4
+ 135244;What I learned at SXSW ;3
+ 135005;A complete and detailed HTML reference;2
+ 135006;Puppet - Admin’s Best Friend;2
+ 135059;A distant dream comes true with Django;3
+ 135063;Tech’s Late Adopters Prefer the Tried and True ;2
+ 135064;Game developers enthused about iPhone, Touch;1
+ 135065;9 Essential Rails Tips;27
+ 135095;RadRails makes a comeback;8
+ 135203;SNAP Summit 2.0 focuses on the business and design of social applications;1
+ 135268;E-mail inventor: I didn't foresee spam;3
+ 135068;Never Write an Insecure ASP.NET Application Ever Again;1
+ 135069;9 Ways To Jumpstart Your Writing Goal (Surprisingly applicable to programming.);19
+ 135101;Classic math puzzles for job interviews;32
+ 135118;Bjarne Stroustrup comments on C++;3
+ 135140;Ask YC: euro vs dollar vs export?;4
+ 135142;Hulu.com Goes Live;1
+ 135153;YouTube lets developers build their own YouTubes;2
+ 135356;What open source projects are you contributing to?;19
+ 135113;Google sets the stage for its own platform push;2
+ 135149;Crackers can attack heart devices;3
+ 135204;The market is cheap again;1
+ 135275;Google could be superseded, says web inventor Tim Berners-Lee;21
+ 135312;MS paper touts Unix in Hotmail's Win2k switch;5
+ 135313;Neglecting Conceptual Research;1
+ 135422;Integrating Scribd with your Rails application;4
+ 135491;Ways to generate brilliant ideas;1
+ 135610;Useless has a name:  Alltop;2
+ 135611;Ruby on Rails might be the Mac’s killer development platform;1
+ 135037;Implementing mutual exclusion for Ajax in JavaScript;1
+ 135089;Quick - is 91 prime?;73
+ 135127;GNOME 2.22 Release Notes;1
+ 135166;Why I No Longer Like or Use C++;22
+ 135169;XMLBuilder: A Ruby DSL Case Study;3
+ 135103;What are worthwhile problems: Feynman's moving letter;75
+ 135111;The Humble Programmer;2
+ 135200;A Heart Device Is Found Vulnerable to Hacker Attacks;1
+ 135319;The World Writes;1
+ 135349;Getting hired;40
+ 135440;Ask YC:  Instead of voting in social news, why not have submitters compete via a game/puzzle?;2
+ 135441;Foolish? Stupid? Lunatic? Where are you on the Software Process Immaturity Model? [pdf];2
+ 135529;NSA shifts to e-mail, Web, data-mining dragnet;2
+ 135167;The British are coming!;1
+ 135182;Google announces layoffs?;10
+ 135185;Ask YC: What would you put on a hacker's bookshelf?;48
+ 135193;The Early History of Programming Languages;2
+ 135195;Web Mashups Made Easy;3
+ 135196;Microsoft's chairman Advises Congress On US Competitiveness;1
+ 135256;InkomHolic;2
+ 135248;GameStylus | The Most Fun and Free Online Games;5
+ 135283;Bob Ippolito: Exploring Erlang [VIDEO];3
+ 135299;Programming Language Inventor or Serial Killer?;4
+ 135301;TED | Nicholas Negroponte: From 1984, 4 predictions about the future (3 of them correct) (video);3
+ 135459;How to Get a Life;4
+ 135510;"Do you have" vs. "Do you want";5
+ 135551;Melodyne -  change individual notes within chords - like Photoshop for music (amazing video);3
+ 135566;Snaptalent Launches (YC Winter 08);77
+ 135191;Apple claims 100,000+ iPhone SDK downloads in four days;2
+ 135314;Digg Hates Me;1
+ 135387;(SearchMe?) Coverflow results, Django backend, Yahoo API, 45 minutes.;26
+ 135578;Matrix: Simulating the world Part I;1
+ 135605;Ask YC: How many forums do you use?;6
+ 135528;TED: Neuroanatomist explains her own stroke.;4
+ 135549;Relativistic Asteroids: prepare to be blown away;4
+ 135592;Rootless Root: The Unix Koans of Master Foo;4
+ 135269;Ask YC: Can we have a report spam button?;9
+ 135448;Scan, deposit checks from home ;1
+ 135350;Alienware Area-51 m15x plagued by overheating & cracking;2
+ 135418;The Functional Neuroanatomy of Science Journalism;3
+ 135455;Ask YC: What popular web sites were coded in a flash?;2
+ 135494;Ask Hackers: How to become the best JavaScript programmer? (q by 12yr old);38
+ 135340;Tight US immigration forces outsourcing: Bill Gates;2
+ 135466;DHH: All code will eventually go stale.;21
+ 135516;Hacking implanted defibrillators: shockingly easy;1
+ 135699;A small Rails site and why you should build one;2
+ 135700;Using Clickpass for OpenID Site Login;2
+ 135701;The Tools Google Uses Internally;2
+ 135778;Rivals4Ever: il sito ideale per le sfide testa a testa;1
+ 135781;A De(Sign)ed Gift for Those That Have it All...;2
+ 135782;Amgen's billion-dollar tightrope walk;1
+ 135784;Fewer new American millionaires;1
+ 135870;Animation of the evolution of a website design (gif) ;3
+ 135886;Zimbra Collaboration Suite Open Source Edition On CentOS;1
+ 135959;Make Your Meetings Quick And Easy To Schedule;1
+ 136094;Expensive Hypervisors - a bad idea even if you can afford them;1
+ 135548;Download files as the other party uploads them;1
+ 135560;Geosign, Google and the Decline of the Search Arbitrage Business Model;7
+ 135381;Intel's Solid State Drives;1
+ 135469;For anyone working on neat side hardware projects;1
+ 135470;YouTube's new APIs open the site to external apps;1
+ 135492;The bowel movement: What is your poo telling you about your health?;1
+ 135495;My personalized news site based on the book Programming Collective Intelligence;40
+ 135507;Air Force Cyber Command General Answers Slashdot Questions;1
+ 135542;A take on the freemium business model, or is it just free-to-me?;1
+ 135523;The Power Of Change;1
+ 135524;Bringing Second Life To Life: Researchers Create Character With Reasoning Abilities of a Child;1
+ 135537;List of open problems in computer science;3
+ 135769;7 Confessions Of A Verizon DSL Tech Support Rep;1
+ 135817;Great Time to be a Nerd;1
+ 135945;How to Be Original;10
+ 135956;5 rules to get customer support right;4
+ 136028;Start-up tips for those early days;13
+ 135490;Crgslst: The Endangered, Sexy Craigslist Search Tool;3
+ 135519;50 Weird Science Tidbits & Oddities (awesome);1
+ 135554; On the Process of Becoming a Great Scientist;4
+ 135582;SEO poisoning attacks growing;2
+ 135622;John Carmack on id Tech 6, Ray Tracing, Consoles, Physics and more;4
+ 135614;Open Source Software Integration;3
+ 135626;The Future is Web Services, Not Web Sites;1
+ 135714;The Most Meta Internet Video Ever;1
+ 135793;CFOs See Recession Through 2009;4
+ 135534;MySQL co-founder, David Axmark, on Sun's billion dollar acquisition;1
+ 135794;Guess Who's Getting the Most Work Visas;4
+ 135795;WeGame’s 19 Year Old Founder Raises $3 million Financing;7
+ 135808;12 Future Apps For Your iPhone;3
+ 135596;10 Ways to Improve Your Programming Productivity;62
+ 135725;Ask PG: Can I change my handle and keep Karma?;2
+ 135584;A Mathematician’s Lament [pdf];4
+ 135790;Less precise processors may increase battery life;14
+ 135824;Mind mapping in your browser (SVG and VML so no plugins);2
+ 135891;Business Planning for Startups and Old Hands;1
+ 135892;AOL Buying Bebo, Falco Email;1
+ 135893;Using the iPhone SDK on a PowerPC Mac;1
+ 135895;W3C CSSOM View Module;1
+ 135932;Apple - google - you;49
+ 136092;Carlyle Fund's Assets Seized;8
+ 135572;Community Plumbing with Drupal;1
+ 135573;Pirate Bay to Hollywood: Open your Own Torrent Site (text summary + 3 part video interview);2
+ 135666;Get that job at Google;90
+ 135670;Brain fitness seen as hot industry of the future;1
+ 135709;The 20 most useful Microsoft sites for IT professionals;2
+ 135710;Former Microsoft Genius Masters the Culinary Art of Sous-Vide;2
+ 135749;The easiest (& cutest:-) Ruby, heck even programming book ever written!;2
+ 135767;Thieves finding new ways to steal gas from your car;1
+ 135902;Common characteristics of failed open-sourced projects;4
+ 135913;Would You do it Again for Free?;2
+ 135916;March Madness: Get Your Startup Out of Pre-Revenue!;2
+ 135975;Microsoft's OOXML could pose patent threat to GPL-licensed software;1
+ 135982;AOL Buys Bebo For $850 Million;1
+ 136072;Crazedlist.org : search craigslist like a madman;8
+ 135786;Java Tip: Using Generics With Wildcards and Extends;1
+ 135814;Dan Ariely: Applying behavioral economics to Open Source;2
+ 135823;Prom Dresses;2
+ 135825;The media is the revolution - Tools and Transformations;1
+ 135829;Ask YC: Good resources for dev/staging/production config;11
+ 135922;Microsoft's top visionary sees a parallel world;1
+ 136087;How to Recruit a Developer Entrepreneur for Your Startup;7
+ 135598;Building the Atari ST;17
+ 135737;Ask YC: What are the command line tools you can't live without?;3
+ 135863;Most used CSS tricks;2
+ 135887;The Algorithm Design Manual (e-book);2
+ 135920;Why we're powerless to resist grazing on endless web data;1
+ 135948;Video Road Hogs Stir Fear of Internet Traffic Jam;1
+ 135970;Anonymous Commenting to be Outlawed;3
+ 136045;Should you hire a convicted Hacker?;3
+ 135677;Ideas For Start-Ups;2
+ 135862;20 Free Ebooks and Whitepapers for Better Web Design;1
+ 135963;Busy Twitter a poster child for new communications;3
+ 135977;Heavy Internet traffic ahead. Delays possible.;8
+ 136197;Neo-Victorian Computing;5
+ 136213;Spam Plants;2
+ 136308;The Lost Features of Google;4
+ 136365;SALT - Semantically Annotated LaTeX;2
+ 136376;The tech world rejoices: A Congressman who can code;7
+ 136772;Microsoft rapt on Web ad analysis company (Rapt);1
+ 135763;Designing for the Mobile Web;2
+ 135865;Creating a minimalist workspace;12
+ 135866;High Performance Ajax with GWT;4
+ 135888;GoDaddy Uses ICANN Domain Verification for (Dirty) Marketing Purposes;17
+ 135912;GumGum launch, or how to avoid a disastrous launch;1
+ 135923;Big storage is watching you;1
+ 135702;Fashion for Geeks: Why bother?;27
+ 135707;Technology Review: Offline Web Applications;10
+ 135787;10 accidental inventions;3
+ 136067;Ask YC: What do I, a graduating CS student, need to know to go into the real world as a programmer?;19
+ 136353;Apple's design process;48
+ 136358;What makes Mathematics hard to learn?;2
+ 135668;TiVo to bring YouTube videos to TV screens;1
+ 135671;Myanmar's nutty scheme to solve energy crisis;1
+ 135672;Hacking attacks can turn off heart monitors;2
+ 135880;Using Expression Blend to build a Silverlight 2 app;2
+ 135898;AOL acquires Bebo for 850 million;54
+ 135985;Gibson: Activision's "Guitar Hero" violates patent;1
+ 135631;Hedge funds on the brink as US Federal Reserve cash fails to ease crisis;15
+ 135632;Language Learning;3
+ 135723;Is social networking a waste of time?;9
+ 135770;Joseph Weizenbaum, Famed Programmer, Is Dead at 85;2
+ 135820;A free intro to economics;3
+ 135974;Seven Fantastic--and Free--Apps for Your Windows Mobile Smartphone;2
+ 135978;Prism Update Makes Creating Desktop Apps as Simple as Installing a Firefox Add-on;2
+ 135629;10 Emerging Technologies 2008;11
+ 135683;Ask YC: Have you used trialpay.com as a developer or consumer?;1
+ 135717;Revenge of the Experts;1
+ 135719;Jim Buckmaster: The reluctant CEO;4
+ 135720;Why Spitzer resigning may have been a bad thing;1
+ 135751;Internet wiretapping | Bugging the cloud;2
+ 135694;CeBIT Australia sponsoring the Australian Startups Carnival 2008;1
+ 135726;The 50 Best Robots Ever;1
+ 135859;Class inheritence is NOT about code reuse;1
+ 135708;User Interfaces Rapidly Adjusting to Information Overload;7
+ 135740;How not to kill a kid's entrepreneurial spirit?;2
+ 135796;What CFO Made $5B Less than His Boss?;2
+ 135797;VMware Beefs Up Its Bench;2
+ 135798;Life Expectancy Tied to Education;4
+ 135800;Preloading .flv and .mp3 files with Flash;2
+ 136004;Ask YC: Europeans, how do you protect against falling dollar in Adsense?;14
+ 136118;Federal Reserve sends out new $5 bills;2
+ 135759;Xooglers Launch rentBits Vertical Search Engine for Rentals;1
+ 135815;WordPress is 100% open source;1
+ 135965;MPAA chief: Net neutrality just a 'clever name';1
+ 136202;CVM JIT Constant Pool Dumps;1
+ 135806;Mozilla Expands Prism Desktop Effort;1
+ 135904;Global Or Die: Is There A Future For Local Startups?;4
+ 135931;2007 a bumper year for tech exits; reality bites in 2008;10
+ 136091;Ask YC: Geolocation by IP Address API/Service?;21
+ 136130;Wireless neckband allows first voiceless phone call;4
+ 135844;Sprouts;4
+ 135845;Rules of Communication: Not Trying To Be Rude;2
+ 135861;Favorite Social Media Wiki;1
+ 135925;A glimpse inside Google's secret sauce;2
+ 136070;Hedge fund manager open-sources trading strategy;11
+ 136151;How Google Earth Ate Our Town;3
+ 136300;JSON is YAML;5
+ 136314;MySpace Opens Up The OpenSocial Spigot;3
+ 136364;Why Are Continuations So Confusing, and What Do They Really Do?;19
+ 136429;Alexa indexes pages they should not;2
+ 135760;         \r                                                                                                          +
+ IBM sees decline in number of U.S IT pros, boom in China;2
+ 135851;Voiceless Phone Calls;2
+ 136020;Coordinatr: Elegant Solution For Event Planning;8
+ 135772;Common Questions when Adopting Test Driven Development;2
+ 135831;Anatomy of a failed Agile adoption;2
+ 135938;The Highly Extensible CSS interface;2
+ 135986;Yahoo Embraces The Semantic Web - Expect The Internet To Organize Itself In A Hurry;55
+ 135987;Hooker/Singer Alexandra Dupre loses a client, wins fans;1
+ 136000;Coordinatr Launches;1
+ 136018;Security guide to customs-proofing your laptop;2
+ 136019;An Open Letter to My Software;1
+ 136089;HOWTO recover deleted files on an ext3 file system;7
+ 135774;Apple Manager Writes "Managing Humans" to Help Techies;3
+ 135889;Don't Miss: Pi Day;1
+ 135890;Business Lessons From Blue Man: The Why To Guide;2
+ 136542;The Frontal Cortex : How To Think Under Pressure;3
+ 136701;Casino insider tells (almost) all about security;17
+ 136721;And Nerds Became Queens: Yahoo and Smart Searches;1
+ 135939;Google Solution for Ad Serving;1
+ 136098;Ask YC: I need a world-friendly bank;14
+ 136099;Harvard Says Hacker Broke Into System;1
+ 136101;Electronic Arts in Vice City ready to carjack Take-Two's rides;1
+ 135990;OLPC alternative in Brazil ;1
+ 136039;Searching as a Team;1
+ 136113;Ask HN: Does anyone know of am open source flash mp3 player?;4
+ 136184;User With a Tattoo of Your Logo? Check.;5
+ 136220;American comp - sci deficit, Bill Gates testifies before House Committee;3
+ 136293;Hidden Secrets of the Amazon Shopping Cart;2
+ 136297;Investing in undervalued human capital: the Y Combinator model;5
+ 135944;Ask YC: Development-wise, what do you do that's unconventional and why?;34
+ 135993;Tangible display makes 3D images touchable;1
+ 135995;Ask YC:  Why is Synaesthete interesting?  Is any bizarre combination of concepts interesting?;1
+ 136041;Developers Copyright ;2
+ 136024;Video Road Hogs Stir Fear of Internet Traffic Jam;1
+ 136114;Ricardo Semler and agile/lean principles - (37signals);2
+ 136216;Another Way To Virtually Explore A New Neighborhood: MapJack.com;2
+ 136294;Daylight Savings Time and JavaScript;2
+ 136075;The Magical Power of Focus;1
+ 136234;AI researchers think 'Rascals' can pass Turing test;5
+ 136270;OpenDNS is hijacking Google requests (For what they claim is a good reason);67
+ 136278;The story of Jan Schon, the Bell Labs physicist who turned out to be a total fraud;2
+ 136284;AppleScript Language Guide: Updated to AppleScript 2.0 / OS X 10.5;1
+ 136285;Apple Dev Connection releases RoR & OS X 10.5 tutorial;1
+ 136287;A Flickr-based Introduction to Ruby on Rails 2.0;1
+ 136288;NVidia CUDA on Mac OS X;1
+ 136289;Updated YouTube Data API;1
+ 136290;Instant.js;1
+ 136292;Heart device found vulnerable to hacker attacks;2
+ 136307;And Nerds Became Kings: Yahoo! to Announce Semantic Web Support;6
+ 136586;Are hacking skills completely necessary to be successful these days?;2
+ 136618;Working hard or hardly working? VC-backed startups vs. Bootstraps;40
+ 136781;Why your team needs a coding style;1
+ 136922;Your iPod May Come With Something Extra: A Virus;1
+ 136142;Silicon Valley Star Starts Up New Kind of Social Network;6
+ 136210;Fotoblur public beta launches;2
+ 136398;Top Small Workplaces 2007;1
+ 136095;The World's Most Dangerous Geek ;37
+ 136096;Defending the Problem;1
+ 136112;Apple patents reveal Apple TV DVR plan?;3
+ 136280;Debian Linux cluster beats SGI supercomputer in tsunami warnings;5
+ 136345;Google Sky;1
+ 136371;IPhone 2.0 Firmware Jailbroken Already;2
+ 136388;Agile / Lean OR Common Sense and Permission To Change?;1
+ 136389;Reading, Writing ... And Engineering;1
+ 136103;In search of the killer iPhone app;5
+ 136218;Graffiti art to boost your inspiration;1
+ 136230;“A Listers" Are Beta Junkies;1
+ 136295;Harvard student database hacked, posted on BitTorrent;10
+ 136175;Even The Devil Needs a Little Online Reputation Management;1
+ 136265;Hot New Domaining Trend: Backwording;3
+ 136513;StartupCamp Toronto 2 - Tuesday, April 29th;6
+ 136665;Jack of all, master of none;1
+ 136676;Hair Extension | Hair Replacement | HAIR & COMPOUNDS, INC;1
+ 136739;Justin.TV Teams With Qik For Live Mobile Streaming;24
+ 136767;Yahoo land Switzerland for their sweet spot;1
+ 136237;Tech’s Late Adopters Prefer the Tried and True ;1
+ 136406;Why Dont We Invent It Tomorrow?;1
+ 136435;There's Plenty of Room at the Bottom;5
+ 136454;Google Sky in your web browser;1
+ 136574;Happy Pi Day! ;29
+ 136306;How HP researchers studied Digg.com to determine how you can make the front page;2
+ 136379;Pluto and back, in less than a year;3
+ 136460;Do or DO;2
+ 136627;Botnet malware defense;1
+ 136760;Let this rapper teach you seo and marketing.;1
+ 150979;How WolframTones Works;13
+ 136206;Pitching Guy Kawasaki in an elevator;6
+ 136459;Ask YC: What do you think about our hug-or-ditch network?;5
+ 136562;Create RSS Job Feeds from Job Searches;1
+ 136590;Microsoft proposes new members for Yahoo's board;2
+ 136600;ScanEagle: Boeing Biological Detection System Tests;1
+ 136615;Linux powers "mash-up platform" for phones;1
+ 136759;EU taxpayers to fund $306m Google rival. No wonder the Yanks think we’re dumb.;27
+ 136200;A Congressman who can code;5
+ 136235;New sales program pays Facebook members;2
+ 136245;Gates: Next decade will bring huge software advances;7
+ 136246;Wanted: Clever Cellphone Developers;2
+ 136269;See what you did to the world;1
+ 136427;First Video of Hacked iPhone 2.0 In Action;1
+ 136430;10 Killer Internet Companies That Want To Pay You to Write;3
+ 136666;JavaScript: Search and don't replace;26
+ 136180;The Famous 2001 Article Outlining Tim Berners-Lee's Vision for the Semantic Web;1
+ 136324;Can an ISP Crackdown Stop Pirates? ;1
+ 136385;The Google Way: Give Engineers Room;2
+ 136378;The Haunted Door - Would you have figured it out?;3
+ 136383;How to Fly Without ID and Skip Lines;3
+ 136326;The Internet Will End in 30 Years!;9
+ 136331;It's tradition in the Game industry to write a "Postmortem" after launch, telling your launch story.;10
+ 136415;Time to Twitter;4
+ 136544;HiPhone;2
+ 136320;Tips For Shopping at an Electronics Retail Store ;1
+ 136702;The Secret China-U.S. Hacking War;1
+ 136332;Is Rails the Right Technology For Your Start-up?;1
+ 136457;Why risk is important;9
+ 136532;PBWiki Gets An Overhaul;3
+ 136637;Microsoft and Yahoo met to discuss merger;1
+ 136730;Software "hiccup" undermines trip past Saturn moon;1
+ 136836;Story Writing Is Fun;1
+ 136599;New Driving Simulation Laboratory at University at Buffalo;1
+ 136774;You know, there is a much easier way;8
+ 137025;Why We're Powerless To Resist Grazing On Endless Web Data;6
+ 137137;Facebook To Launch Instant Messaging Service;5
+ 136334;How to Make Your Corporate Blog More Popular;2
+ 136381;Ask YC: Supply & Demand for Startups;6
+ 136515;Navy prefers open systems;8
+ 136529;Reznor's one-week take for 'Ghosts': $1.6 million;2
+ 136536; Ten things you don’t know about the Milky Way Galaxy;7
+ 136538;Strategy Game Programming;3
+ 136349; Google may be displaced, says World Wide Web creator Tim Berners-Lee;2
+ 136583;TipJoy Wordpress Plugin featured on WeblogToolsCollection.com;1
+ 136667;High Wire Act;2
+ 136669;The night the IETF turned off IPv4;4
+ 136693;Google Sky launches;40
+ 136723;Microsoft Pitches Merger Vision To Yahoo at Meeting;3
+ 136731;5 ways to fail at IT training;2
+ 136834;A Masterclass With The Adventure Capitalist;1
+ 136414;Peter Thiel's Optimistic Thought Experiment:  Trading in a world that might end;12
+ 136452;Celebrate pi day: Learn hundreds of digits of pi at lightning speed, software open-sourced;2
+ 136629;Nerve-Tapping Neckband Translates Thought to Speech;1
+ 136413;Craig Venter: Joining 3.5 Billion Years of Microbial Invention [mp3];4
+ 136512;Neckband used in "telepathic" chat;4
+ 136547;Define life;1
+ 136553;Ask YC: Is Internet Slowing down?;7
+ 136609;Possible vulnerability in TrueCrypt 5.1;1
+ 136660;Fundamental limits to virtual reality;4
+ 136674;Mocking a Python standard library;1
+ 136795;Garmin's King of GPS, but With Sinking Profit and Weak Economy, What's Next?;1
+ 136509;Scientists identify new longevity genes;4
+ 136549;Major product upgrades - is your current version good enough?;2
+ 136568;AOL + Bebo = Still No Market Differentiation;1
+ 136717;The Smart Goggles that could make lost keys, mobile phones or iPod a thing of the past;3
+ 136732;Blog Fight! WordPress and Movable Type Square Off;3
+ 136754;Google Exec. thinks high of Android. ;1
+ 136837;If you applied to startup school, please put the same email in your profile;42
+ 136613;The six hats of project management;1
+ 136638;Geeks and Gangsters have the same personality traits.;2
+ 136639;17 Tips For Getting Bloggers To Write About You ;7
+ 136688;Who Might Be Spying on Your Communications? (Hint -- It's Not Just the NSA);6
+ 136715;The Mystery of b := (b = false);2
+ 136749;Google Sky Rises Above Google Earth;1
+ 136859;Top 10 Secure Coding Practices;22
+ 151790;Demystifying Clouds;1
+ 136412;Clouds forming over Silicon Valley?  Funding may slow down.;2
+ 136588;Rocket lifts off with secret satellite;1
+ 136653;Secrets of Pixar's inner circle;5
+ 136654;[video] Bay Area Girl Geek Dinner Panel;1
+ 136655;Inside Google's European HQ;12
+ 136736;Drawing Lines;23
+ 136763;So far, Microsoft has many formers to take over Yahoo board;1
+ 136912;Why you probably do not want Java on the iPhone;1
+ 136923;How To Make Money Online;1
+ 136925;Best Internet Games;1
+ 136461;A More Satisfying Programming Experience;2
+ 136650;Breaking Google Captchas for $3 a Day;6
+ 136651;Who vacuums at 12:31 am?;1
+ 136864;I’ve Acquired ReadBurner: Attention Data is the Future of Social News;4
+ 136438;Seed round investment outside of the US?;4
+ 136602;Yahoo to Begin Indexing Microformats;1
+ 136604;Climate Change Threatens U.S. Roadways;1
+ 136712; Fengtek Releases Motherboard Designed Using Feng Shui Principles;2
+ 136742;Providing savings accounts to Indian sex workers might reduce spread of HIV;8
+ 136788;Buy an iPod, get a free virus.;4
+ 137001;The Coming Exodus;7
+ 136556;Drag and drop programming environment;1
