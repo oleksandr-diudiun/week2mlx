@@ -1,0 +1,11 @@
+gensim
+ipykernel
+matplotlib
+numpy
+scikit-learn
+scipy
+seaborn
+sentencepiece
+torch
+torchaudio
+torchvision
